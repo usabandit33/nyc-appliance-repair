@@ -36,4 +36,12 @@ h1 { font-size: clamp(1.8rem, 4.5vw, 2.7rem); line-height: 1.12; margin: .4rem 0
 .list li { background: var(--panel); margin: 0 0 .8rem; padding: 1rem 1.1rem; border-left: 3px solid var(--line); }
 .list strong { display: block; margin-bottom: .25rem; }
 footer { color: var(--muted); font-size: .85rem; margin-top: 2rem; padding-bottom: 2rem; }
+.legal {
+  margin-top: 2.5rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+  font-size: .72rem;
+  line-height: 1.45;
+  color: #8a7f6a;
+}
 .art svg { width: 100%; max-width: 360px; height: auto; }
