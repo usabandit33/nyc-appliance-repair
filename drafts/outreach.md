@@ -8,17 +8,19 @@
 
 Subject: Free NYC appliance-repair checklist — listing your published phone
 
-Body uses visible Live URL text `https://nyc-appliance-repair/` linked to `https://usabandit33.github.io/nyc-appliance-repair/`.
+Visible Live URL text: `https://nyc-appliance-repair/` → links to `https://usabandit33.github.io/nyc-appliance-repair/`
 
 Signature:
 Matt M.
 kaelnventures@gmail.com
 
-## Sent
-- 2026-09-07 Flamingo: start@appliancerepair-brooklynny.com (accepted)
-- 2026-09-07 SparkPoint: sparkpointrepair@gmail.com (accepted)
-- 2026-09-07 Vista: service@vistappliances.com → **undeliverable** → removed from public page
-- 2026-09-07 Expert Appliance Center: info@expertappliancecenter.com (sent as replacement)
+## Sent / bounce log
+- Flamingo: start@appliancerepair-brooklynny.com (accepted)
+- SparkPoint: sparkpointrepair@gmail.com (accepted)
+- Vista: service@vistappliances.com → undeliverable → removed
+- Expert Appliance Center: info@expertappliancecenter.com → undeliverable → removed
+- Dial Appliance Service: service@dialappliance.com (sent as replacement 2026-09-07)
+- Placeholder info@example.com draft deleted (never a real business)
 
-## Current public list (reachable contacts)
-NYC Appliance Pro, Volt & Vector, City Tech Service, Dan Marc Appliance, Flamingo, SparkPoint, Expert Appliance Center.
+## Current public list
+NYC Appliance Pro, Volt & Vector, City Tech Service, Dan Marc Appliance, Flamingo, SparkPoint, Dial Appliance Service.
