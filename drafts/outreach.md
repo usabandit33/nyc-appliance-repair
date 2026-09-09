@@ -15,12 +15,13 @@ Matt M.
 kaelnventures@gmail.com
 
 ## Sent / bounce log
-- Flamingo: start@appliancerepair-brooklynny.com (accepted)
+- Flamingo: start@appliancerepair-brooklynny.com (accepted) → later bounce reported → removed 2026-09-09
 - SparkPoint: sparkpointrepair@gmail.com (accepted)
 - Vista: service@vistappliances.com → undeliverable → removed
 - Expert Appliance Center: info@expertappliancecenter.com → undeliverable → removed
 - Dial Appliance Service: service@dialappliance.com (sent as replacement 2026-09-07)
+- Appliance Repair Brooklyn: appliancerepairbrooklynnyc@gmail.com (sent as Flamingo replacement 2026-09-09)
 - Placeholder info@example.com draft deleted (never a real business)
 
 ## Current public list
-NYC Appliance Pro, Volt & Vector, City Tech Service, Dan Marc Appliance, Flamingo, SparkPoint, Dial Appliance Service.
+NYC Appliance Pro, Volt & Vector, City Tech Service, Dan Marc Appliance, Appliance Repair Brooklyn, SparkPoint, Dial Appliance Service.
